@@ -1,6 +1,6 @@
 # Distorted Sound Filtering
 
-This project focuses on reconstructing distorted audio signals transmitted through noisy communication channels. By utilizing advanced digital signal processing techniques, including inverse and notch filters, the project achieves high-quality audio reconstruction with near-perfect clarity.
+This project focuses on reconstructing distorted audio signals transmitted through noisy communication channels. The project achieves high-quality audio reconstruction with near-perfect clarity by utilizing advanced digital signal processing techniques, including inverse and notch filters.
 
 ## Overview
 - **Input**: Distorted audio signal sampled at **48 kHz**.
@@ -26,9 +26,8 @@ This project focuses on reconstructing distorted audio signals transmitted throu
    - Export the reconstructed audio as `output_signal.wav`.
 
 ## Hardware and Software
-- **Hardware**: Zybo Z7010 (Xilinx Zynq-7000 FPGA)
 - **Software**:
-  - MATLAB R2022b
+  - MATLAB
   - Signal Processing Toolbox
 
 ## Applications
